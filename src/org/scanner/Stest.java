@@ -11,6 +11,10 @@ public class Stest {
 		System.out.println("enter the emp age:");
 		int nextInt = scanner.nextInt();
 		System.out.println("your emp age:"+nextInt);
+		System.out.println("=============");
+		System.out.println("=============");
+		System.out.println("=============");
+		
 		
 		System.out.println("enter your ph no");
 		long nextLong = scanner.nextLong();
